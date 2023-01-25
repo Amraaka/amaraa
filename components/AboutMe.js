@@ -15,6 +15,8 @@ Transforming my creativity and knowledge into a websites has been my passion for
             </div>
             <div className={styles.right}>
                 <img src='img/blackHoodie.png'/>
+                <img src='img/hha2.png'/>
+
             </div>
         </section>
     )
