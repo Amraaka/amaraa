@@ -1,0 +1,52 @@
+.body{
+    height: 452px;
+    width: 330px;
+    border: 1px solid lightgray;
+    margin-top: 100px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    padding: 0; 
+}
+.Img{
+    object-fit: cover;
+}
+.title{
+    border-bottom: 1px solid lightgray;
+    font-size: 16px;
+    padding-left: 16px;
+    height: 26px;
+    line-height: 0px;
+}
+.title1{
+    font-size: 24px;
+    line-height: 31px;
+    font-weight: 500;
+    align-self: stretch;
+    margin-left: 16px;
+    height: 30px;
+    line-height: 24px;
+}
+.title2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ABB2BF;
+    margin-left: 16px;
+}
+.title3, .title4{
+    margin-left: 16px;
+    font-size: 16px;
+    border: 1px solid lightgray;
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.title3{
+    border: 1px solid #C778DD;
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+}

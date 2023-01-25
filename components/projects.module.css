@@ -1,0 +1,29 @@
+.zuraas{
+    width: 510px;
+    height: 1px;
+    background-color: #C778DD;
+    margin-left: 16px;
+    margin-top: 66px;
+    text-align: center;
+}
+.projects{
+    display: flex;
+    color: white;
+    width: 1027px;
+    height: 42px;
+    font-family: 'Fira Code';
+    font-weight: 500;
+    justify-content: space-between;
+}
+.left{
+    display: flex;
+}
+.projects h1{
+    font-size: 32px;
+    line-height: 42px;
+}
+.projects h2{
+    font-size: 16px;
+    line-height: 21px;
+    margin-top: 54px;
+}

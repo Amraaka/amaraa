@@ -1,0 +1,23 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Fira Code';
+    color: white;
+}
+
+.Header li{
+    display: inline-block;
+    color: white;
+    list-style-type: none;
+}
+
+.right li{
+    margin-left:  32px;
+}
+.hashtag{
+    color: #C778DD;
+}
+.Link{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,53 @@
+.container{
+    display: grid;
+    grid-template-columns: 38% 62%;
+    font-family: 'Fira Code';
+    color: white;
+}
+.Skills{
+    display: flex;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+}
+.zuraas{
+    height: 1px;
+    width: 240px;
+    background: #C778DD;
+    margin-top: 22px;
+    margin-left: 16px;
+}
+.right{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 142px;
+}
+.right td{
+    color: gray;
+    padding: 8px;
+}
+.table1, .table2, .table3 {
+    border: 1px solid white;
+    border-collapse: collapse;  
+    width: 180px;
+height: 103px;
+
+}
+.table1  tr th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  .table2  tr th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  .table3  tr th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.table3, .table2{
+    margin-bottom: 16px;
+}

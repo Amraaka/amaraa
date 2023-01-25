@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&display=swap');
+html, body{
+  font-family: 'Fira-code';
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: #1E1E1E;
+}
+h1{
+  color: white;
+}
+.Card{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
